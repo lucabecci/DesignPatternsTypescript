@@ -4,9 +4,13 @@
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
+    "@types/uuid": "^8.3.0",
     "ts-node": "^9.1.1",
     "typescript": "^4.1.3"
   },
   "author": "Brian Luca Becci",
-  "description": "This is a collection where I save all the design patterns implemented in Typecript. The code is created by Luca Becci."
+  "description": "This is a collection where I save all the design patterns implemented in Typecript. The code is created by Luca Becci.",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  }
 }
